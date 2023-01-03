@@ -62,6 +62,7 @@ a:hover {
 
 .about {
   text-align: center;
+  padding: 20px;
 }
 h1 {
   font-size: 50px;
@@ -115,9 +116,9 @@ h3 {
   }
 }
 
-section {
+.container {
   background: url(/images/boat-g373c5c6ee_1920.jpg) no-repeat;
   background-size: cover;
   /* background-color: #7d3636; */
-  height: calc(100vh - 80px);
+  height: calc(100vh - 20px);
 }
